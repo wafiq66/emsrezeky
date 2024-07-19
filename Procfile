@@ -1,1 +1,2 @@
-web: java -jar target/emsrezeky-1.0-SNAPSHOT.war
+web: java -jar target/emsrezeky-1.0-SNAPSHOT.jar
+
